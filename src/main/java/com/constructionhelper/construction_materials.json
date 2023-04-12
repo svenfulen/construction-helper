@@ -1,0 +1,30 @@
+{
+  "4-poster" : {
+    "name" : "4-poster",
+    "materials" : [
+      {
+        "name": "Mahogany plank",
+        "quantity": 3
+      },
+      {
+        "name": "Bolt of cloth",
+        "quantity": 2
+      }
+    ]
+  },
+
+  "Crude wooden chair" : {
+    "name" : "Crude wooden chair",
+    "materials" : [
+      {
+        "name": "Plank",
+        "quantity": 2
+      },
+      {
+        "name": "Nails",
+        "quantity": 2
+      }
+    ]
+  }
+
+}
